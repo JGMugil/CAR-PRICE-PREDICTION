@@ -73,6 +73,4 @@ seaborn==0.11.2
 sklearn==0.0
 
 
-widgetsnbextension==3.6.1
-wincertstore==0.2
-zipp==3.8.0
+
